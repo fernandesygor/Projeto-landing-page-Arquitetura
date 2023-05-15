@@ -1,2 +1,3 @@
 # Projeto-landing-page-Arquitetura
-Este é o projeto de desenvolvimento do módulo do curso de Tecnologia da escola DNC Desafio 1. 
+Link da planilha de registro de informação:https://docs.google.com/spreadsheets/d/1VlMRwISJnAVvmEWwL0lURgnm22H8B_bc4qRgzqEr1_I/edit
+Link do site disponibilizado:https://landing-page-pag-arquitetura.netlify.app
