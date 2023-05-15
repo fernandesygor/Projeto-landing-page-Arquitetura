@@ -1,0 +1,167 @@
+*{
+  margin: 0px;
+  font-family: "inter";
+}
+
+#menusuperior{
+  background-color: #303030;
+  color: rgb(231, 236, 240);
+  contain: layout;
+}
+
+#titulo-menusuperior{
+  margin: 100px 20px 00px 49px;
+  font-weight: 600;
+  font-size: 40px;
+}
+
+#texto-menusuperior{
+ margin: 20px 90px 90px 50px;
+ 
+}
+
+
+
+
+#menu-informacional{
+  display: grid;
+  columns: auto;
+  grid-auto-flow: column;
+  background-color: #F9F9F9;
+  contain: layout;
+}
+
+.texto-informacional{
+  margin-top: 13%;
+  margin-left: 20%;
+  margin: 50px 0px 50px 100px;
+}
+
+.texto-negrito{
+  font-weight: 600;
+  font-size: 25px;
+}
+
+
+
+
+#menu-experiencia{
+  margin-top: 170px;
+  margin-left: 60px;
+  padding: auto;
+  display: grid;
+  grid-column: auto;
+  grid-auto-flow: column;
+
+}
+
+#texto-experiencia{
+  font-weight: 600px;
+  font-size: 27px;
+  margin-top: 50px;
+
+  margin-right: 300px;
+  
+}
+
+#imagem-experiencia{
+margin-left: 100px;
+margin-top: -90px;
+width: 500px;
+height: 500px;
+}
+
+#texto-menu-experiencia{
+  margin-top: 79px;
+  margin-left: 60px;
+  
+}
+
+#texto-negrito-experiencia{
+  font-size: 27px;
+  font-weight: 600;
+}
+
+
+
+#menu-formulario{
+ text-align: center;
+ background-color: #303030;
+ contain: layout;
+ margin-top: 80px;  
+}
+
+
+#titulo-formulario{
+  margin-top: 55px;
+  font-weight: 700;
+  font-size: 23px;
+  font-style: normal;
+  color: #ffff;
+
+}
+
+#box-formulario{
+  margin: 10px;
+}
+
+input{
+  width: 300px;
+  height: 40px;
+  border: 0px;
+  border-radius: 5px;
+  padding-left: 15px;
+  font-weight: 900;
+  font-family: "Raleway";
+ 
+  font-size: 16px;
+  line-height: 30px;
+  margin-top: 100px;
+  margin: 20px;
+  
+}
+
+button{
+  background-color: #C07212;
+  width: 170px;
+  height: 40px;
+  border: 0px;
+  border-radius: 5px;
+  color: #F9F9F9;
+  font-family: 'Raleway';
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 30px;
+  cursor: pointer;
+  margin: 30px;
+}
+
+button:hover{
+  background-color: #b46607;
+  color: #F9F9F9;
+  transform: translate(-9px);
+  box-shadow: 0px 15px 20px #1d1915;
+  transition-duration: 0.5s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
